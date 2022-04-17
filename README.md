@@ -2,19 +2,13 @@
 
 ## Linear Regression to Predict MPG
 
-The Ground clearance and vehicle weight coefficients provided a non-random amount of variance to the mpg values in the dataset. The slope of the multiple linear
-
-regression model is non-zero since we calculated the coefficients of the multiple linear regression model, and it has values other than zero. This model can be 
-
-considered to be able to predict the mpg of MechaCar prototypes in a great manner, Because the r-value of this linear model is more than 0.7 and r squared of 0.71, which represents a strong correlation between the data and the model.
+The Ground clearance and vehicle weight coefficients provided a non-random amount of variance to the mpg values in the dataset. The slope of the multiple linear regression model is non-zero since we calculated the coefficients of the multiple linear regression model, and it has values other than zero. This model can be considered to be able to predict the mpg of MechaCar prototypes in a great manner, Because the r-value of this linear model is more than 0.7 and r squared of 0.71, which represents a strong correlation between the data and the model.
 
 ![image](https://user-images.githubusercontent.com/95439555/163636696-cdd244ad-d253-4dbb-81d0-7a3c745bd2ee.png)
 
 ## Summary Statistics on Suspension Coils
 
-As requested from the design specifications for the Mechacar suspension coils, we mustn't exceed a variance of 100 PSI for our manufacturing lots. Lot 1 and 2 passed the
-
-variance test, whereas lot 3 exceeded the given 100 PSI variance of the suspension coils. The table clearly states the variances of these lots.
+As requested from the design specifications for the Mechacar suspension coils, we mustn't exceed a variance of 100 PSI for our manufacturing lots. Lot 1 and 2 passed the variance test, whereas lot 3 exceeded the given 100 PSI variance of the suspension coils. The table clearly states the variances of these lots.
 
 ![image](https://user-images.githubusercontent.com/95439555/163648378-f99efbe8-975b-477a-98f5-852c03dcedb6.png)
 
@@ -41,9 +35,7 @@ The PSI of the third manufacturing lot is the same as the population mean, since
 
 ## Study Design: MechaCar vs Competition
 
-City or highway fuel economy can be used as a metric of competition for automative industries which can be used as a dependant variable and other coefficients such as 
-
-horse power, vehicle weight, AWD and MPG are used as the independent variable. 
+City or highway fuel economy can be used as a metric of competition for automative industries which can be used as a dependant variable and other coefficients such as horse power, vehicle weight, AWD and MPG are used as the independent variable. 
 
 
 
