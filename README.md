@@ -35,7 +35,7 @@ The PSI of the third manufacturing lot is the same as the population mean, since
 
 ## Study Design: MechaCar vs Competition
 
-City or highway fuel economy can be used as a metric of competition for automative industries which can be used as a dependant variable and other coefficients such as horse power, vehicle weight, AWD and MPG are used as the independent variable. 
+City or highway fuel economy can be used as a metric of competition for automative industries which can be used as a dependant variable and other coefficients such as horse power, vehicle weight, AWD and MPG are used as the independent variables. 
 
 
 
