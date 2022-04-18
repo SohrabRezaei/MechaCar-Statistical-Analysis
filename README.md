@@ -14,24 +14,24 @@ As requested from the design specifications for the Mechacar suspension coils, w
 
 ## T-Tests on Suspension Coils
 
-The PSI across all manufacturing lots is the same as the population mean, since the p value is 0.97, which is higher than our 0.05 threshold.
+The PSI across all manufacturing lots is around the same as 1500 PSI population mean, since the p value is 0.099, which is higher than our 0.05 threshold.
 
-![image](https://user-images.githubusercontent.com/95439555/163648512-1fce50ae-046d-4209-bdd7-f90e8a771177.png)
+![image](https://user-images.githubusercontent.com/95439555/163847238-5fb6e0b4-b899-40ef-9f4f-2a2c1b1765ec.png)
 
-The PSI of the first manufacturing lot is significantly different from the population mean, since the p value is 0.0038, which is lower than our 0.05 threshold.
-
-
-![image](https://user-images.githubusercontent.com/95439555/163648560-c167ff0d-f5aa-4111-9966-8f796b59223f.png)
-
-The PSI of the second manufacturing lot is significantly different from the population mean, since the p value is 0.0204, which is lower than our 0.05 threshold.
+The PSI across all manufacturing lots is around the same as 1500 PSI population mean, since the p value is 0.45, which is higher than our 0.05 threshold.
 
 
-![image](https://user-images.githubusercontent.com/95439555/163648599-f5735ebc-68a7-41b4-9427-3427cb637512.png)
+![image](https://user-images.githubusercontent.com/95439555/163847416-c3fb9672-af24-4d1e-85ed-5b9cbbe6f56f.png)
 
-The PSI of the third manufacturing lot is the same as the population mean, since the p value is 0.621, which is higher than our 0.05 threshold.
+The PSI across all manufacturing lots is around the same as 1500 PSI population mean, since the p value is 0.303, which is higher than our 0.05 threshold.
 
 
-![image](https://user-images.githubusercontent.com/95439555/163648643-43ef3200-d321-4d64-b905-5c7c9a1efe11.png)
+![image](https://user-images.githubusercontent.com/95439555/163847604-3c42365f-6211-4006-8c7d-cd38dc10398d.png)
+
+The PSI across all manufacturing lots is around the same as 1500 PSI population mean, since the p value is 0.158, which is higher than our 0.05 threshold.
+
+
+![image](https://user-images.githubusercontent.com/95439555/163847769-f89a84fd-6f5f-4ed5-ad40-dce7eb6dd47b.png)
 
 ## Study Design: MechaCar vs Competition
 
