@@ -1,5 +1,9 @@
 # MechaCar-Statistical-Analysis
 
+# Overview
+
+Metrics such as vehicle length, weight, spoiler angle, ground clearance, AWD capabilities, MPG, and PSI have been evaluated between different manufacturer lots and how these parameters could influence the production of a new prototype.
+
 ## Linear Regression to Predict MPG
 
 The Ground clearance and vehicle weight coefficients provided a non-random amount of variance to the mpg values in the dataset. The slope of the multiple linear regression model is non-zero since we calculated the coefficients of the multiple linear regression model, and it has values other than zero. This model can be considered to be able to predict the mpg of MechaCar prototypes in a great manner, Because the r-value of this linear model is more than 0.7 and r squared of 0.71, which represents a strong correlation between the data and the model.
